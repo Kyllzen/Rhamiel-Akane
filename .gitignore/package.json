@@ -1,11 +1,14 @@
 {
-  "name": "rhamiel",
+  "name": "b",
   "version": "1.0.0",
   "description": "",
-  "main": "  ",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kyllzen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+  }
 }
